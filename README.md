@@ -9,6 +9,7 @@ This project implements a **fire detection system** using an **ESP32** microcont
 
 ## **Hardware Requirements**
 - **ESP32** development board.
+- **Jumpers**
 - **Flame Sensor** connected to GPIO 13.
 - **Buzzer** connected to GPIO 15.
 
